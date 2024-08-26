@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Yo soy una estudiante del João Paulo II
+Yo soy una estudiante del João Paulo II :bowtie:
 
 
 **nilferr/nilferr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
