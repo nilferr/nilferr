@@ -1,4 +1,4 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 
 
 Yo soy una estudiante del João Paulo II :bowtie:
 actualmente estoy aprendiendo computacion educacional :sparkles:
