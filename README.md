@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Yo soy una estudiante del João Paulo II :bowtie:
-
+actualmente estoy aprendiendo computacion educacional :sparkles:
 
 **nilferr/nilferr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
