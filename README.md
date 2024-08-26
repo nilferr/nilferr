@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil 
+### Boas vindas ao meu perfil :blue_heart
 
 Yo soy una estudiante del João Paulo II :bowtie:
 actualmente estoy aprendiendo computacion educacional :sparkles:
